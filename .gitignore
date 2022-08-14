@@ -10,3 +10,6 @@
 
 # To ignore terraform.tfvars file to have global variables
 *.tfvars
+
+# To ignore terraform crash logs
+*.log
