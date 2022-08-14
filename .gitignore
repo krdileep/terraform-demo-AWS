@@ -1,0 +1,12 @@
+# To ignore terraform state files
+
+*.tfstate
+*.tfstate.backup
+
+# To ignore terraform default provider-modules
+
+*.terraform
+
+
+# To ignore terraform.tfvars file to have global variables
+*.tfvars
