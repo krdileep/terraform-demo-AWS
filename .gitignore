@@ -13,3 +13,10 @@
 
 # To ignore terraform crash logs
 *.log
+
+# To ignore any terraform graph files & plan files
+
+*.svg
+*.png
+
+*.tfplan
